@@ -1,0 +1,8 @@
+{
+  "name": "fiftyapp",
+  "app_id": "8a42b116",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
